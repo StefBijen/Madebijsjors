@@ -1,0 +1,9 @@
+FUNCTIONAL
+1 Webpagina producten ontwerpen 
+2 Alle producten invoegen met eigen webpagina 
+3 Winkel wagen inbouwen  
+4 Afreken pagina opbouwen 
+5 Database met bestellingn
+
+Optional  
+6 Manier van afrekenen 
